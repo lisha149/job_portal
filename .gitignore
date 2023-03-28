@@ -1,0 +1,4 @@
+conf
+job_portal/node_modules
+job_portal_frontend/node_modules
+job_portal/.env
